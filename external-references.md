@@ -1,7 +1,7 @@
 [BYU CTF GitHub](https://github.com/BYU-CSA/cyber-kickstart/blob/main/friday-lessons/Beginners.md)
 
-[pwn.college](pwn.college)
+[pwn.college](https://pwn.college)
 
-[TryHackMe](tryhackme.com)
+[TryHackMe](https://tryhackme.com)
 
-[HackTheBox](hackthebox.com)
+[HackTheBox](https://hackthebox.com)
