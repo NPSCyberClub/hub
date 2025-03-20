@@ -21,6 +21,6 @@ You can also pay AWS, Azure, Digital Ocean, Linode, or others to host your envir
 
 ## Dedicated Device
 
-You could also purchase or repurpose a dedicated computer, laptoop or desktop, to serve as your hacking/CTF/research machine. This will provide good separation from your daily driver.
+You could also purchase or repurpose a dedicated computer, laptop or desktop, to serve as your hacking/CTF/research machine. This will provide good separation from your daily driver.
 
 NOTE: For more specific help with getting set up, please do not hesitate to reach out to members on the Discord. Someone will be happy to help get you up and running. We know it can be a lot if this is your first time.
