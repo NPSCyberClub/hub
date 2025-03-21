@@ -34,6 +34,19 @@ Hashing algos:
 - bcrypt
 - NTLM
 
+## Common Protocols
+
+There are hundreds of ways of moving data around in cyberspace; however, we will mention some of the most common ones here.
+You should learn the basics of what each does and how it works under the hood. These are the basic ways of moving in cyberspace, so you should be familiar with them to be effective.
+
+- HTTP
+- SSH
+- DNS
+- RDP
+- VNC
+- FTP
+- SMB
+
 # Mindset / Approach
 
 We all start somewhere. It is up to you to find the next best step to solve the challenge. No one person has all the answers, so it is 100% fair game to use any and all available resources and creativity toward solving the challenge (within the scope / Rules of Engagement / rules for the CTF).
