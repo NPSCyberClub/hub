@@ -8,6 +8,32 @@ Common topics covered are cryptography, forensics, web applications/pwn, Open So
 They will often consist of challenges ranging from easy/beginner-friendly tasks to advanced/more involved adventures. There should be something for everybody. 
 Many CTFs will allow teams to compete, so folks can share their abilities and tackle more than a single individual could.
 
+# Common / Base Knowledge
+
+Going from zero to one can often be the most difficult. After you've got a little momentum, you can more easily level yourself up.
+Here, we will provide some pointers regarding the most basic assumptions and required knowledge to help get you started.
+
+While the ultimate flag will often take the form of "ctf{SOME_VALUE}", the flag will sometimes be disguised using various other representations of data. 
+The flag may be encrypted or encoded using a number of different methods. Learning to recognize the common data formats can help you determine how to decrypt or decode the obfuscated flag.
+
+You should read up on the following encodings: 
+- base64
+- hexadecimal
+- binary
+- url encoding
+
+Encryption algo: 
+- DES
+- AES
+- RSA
+- XOR
+
+Hashing algos:
+- MD5
+- SHA1, SHA2, SHA3
+- bcrypt
+- NTLM
+
 # Mindset / Approach
 
 We all start somewhere. It is up to you to find the next best step to solve the challenge. No one person has all the answers, so it is 100% fair game to use any and all available resources and creativity toward solving the challenge (within the scope / Rules of Engagement / rules for the CTF).
