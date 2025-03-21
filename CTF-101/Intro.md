@@ -39,7 +39,7 @@ Hashing algos:
 There are hundreds of ways of moving data around in cyberspace; however, we will mention some of the most common ones here.
 You should learn the basics of what each does and how it works under the hood. These are the basic ways of moving in cyberspace, so you should be familiar with them to be effective.
 
-- HTTP
+- [HTTP](https://www.youtube.com/watch?v=TvRyJmPjcbw)
 - SSH
 - DNS
 - RDP
