@@ -12,7 +12,7 @@ A very simple example would be the following:
 
 > }galf_a_fo_elpmaxe_n@_si_s1ht{ftc
 
-...where to get the flag, we reverse the string, resulting in:
+...where to get the flag, we [reverse the string](https://cyberchef.io/#recipe=Reverse('Character')&input=fWdhbGZfYV9mb19lbHBtYXhlX25AX3NpX3MxaHR7ZnRj), resulting in:
 
 > ctf{th1s_is_@n_example_of_a_flag}
 
