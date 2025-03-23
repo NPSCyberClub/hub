@@ -3,9 +3,13 @@
 
 [pwn.college](https://pwn.college)
 
-[TryHackMe](https://tryhackme.com)
+# THM & HTB
 
-[HackTheBox](https://hackthebox.com)
+[TryHackMe vs HackTheBox](https://www.youtube.com/watch?v=Q3MBjG7k3CE)
+
+- [TryHackMe](https://tryhackme.com)
+
+- [HackTheBox](https://hackthebox.com)
 
 # Web Application Security
 
