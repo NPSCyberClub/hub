@@ -11,6 +11,8 @@
 
 - [HackTheBox](https://hackthebox.com)
 
+NOTE: For club members, email [cyber@npsfoundation.org](mailto:cyber@npsfoundation.org) for subscription info.
+
 # Web Application Security
 
 [PortSwigger Academy](https://portswigger.net/web-security)
