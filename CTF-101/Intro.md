@@ -8,6 +8,14 @@ Common topics covered are cryptography, forensics, web applications/pwn, Open So
 They will often consist of challenges ranging from easy/beginner-friendly tasks to advanced/more involved adventures. There should be something for everybody. 
 Many CTFs will allow teams to compete, so folks can share their abilities and tackle more than a single individual could.
 
+A very simple example would be the following:
+
+> }galf_a_fo_elpmaxe_n@_si_s1ht{ftc
+
+...where to get the flag, we reverse the string, resulting in:
+
+> ctf{th1s_is_@n_example_of_a_flag}
+
 # Common / Base Knowledge
 
 Going from zero to one can often be the most difficult. After you've got a little momentum, you can more easily level yourself up.
