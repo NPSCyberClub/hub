@@ -24,10 +24,11 @@ Here, we will provide some pointers regarding the most basic assumptions and req
 While the ultimate flag will often take the form of "ctf{SOME_VALUE}", the flag will sometimes be disguised using various other representations of data. 
 The flag may be encrypted or encoded using a number of different methods. Learning to recognize the common data formats can help you determine how to decrypt or decode the obfuscated flag.
 
-You should read up on the following encodings: 
+You should read up on the following [encodings](https://www.youtube.com/watch?v=8ue8febDDKU): 
 - base64
 - hexadecimal
 - binary
+- ASCII
 - url encoding
 
 Encryption algo: 
