@@ -25,10 +25,10 @@ While the ultimate flag will often take the form of "ctf{SOME_VALUE}", the flag 
 The flag may be encrypted or encoded using a number of different methods. Learning to recognize the common data formats can help you determine how to decrypt or decode the obfuscated flag.
 
 You should read up on the following [encodings](https://www.youtube.com/watch?v=8ue8febDDKU): 
-- base64
+- [base64](https://www.youtube.com/watch?v=cq83Czbo82A)
 - hexadecimal
 - binary
-- ASCII
+- [ASCII, Unicode, & UTF-8](https://www.youtube.com/watch?v=DntKZ9xJ1sM)
 - url encoding
 
 Encryption algo: 
