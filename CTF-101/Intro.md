@@ -27,7 +27,7 @@ The flag may be encrypted or encoded using a number of different methods. Learni
 You should read up on the following [encodings](https://www.youtube.com/watch?v=8ue8febDDKU): 
 - [base64](https://www.youtube.com/watch?v=cq83Czbo82A)
 - hexadecimal
-- binary
+- [binary](https://www.youtube.com/watch?v=LpuPe81bc2w)
 - [ASCII, Unicode, & UTF-8](https://www.youtube.com/watch?v=DntKZ9xJ1sM)
 - url encoding
 
