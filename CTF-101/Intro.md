@@ -61,6 +61,8 @@ You should learn the basics of what each does and how it works under the hood. T
 We all start somewhere. It is up to you to find the next best step to solve the challenge. No one person has all the answers, so it is 100% fair game to use any and all available resources and creativity toward solving the challenge (within the scope / Rules of Engagement / rules for the CTF).
 Use AI. Use your favorite search engine. Use your previous experience. Use your team. 
 
+After spending some time working on a challenge without solving it, consider stepping away from your computer to get some fresh air and free your brain. You'll be shocked at how many times clearing your mind will help things click back into place.
+
 ## Tools
 
 Do spend time to learn your tools. Do explore better alternatives to the tools you currently know and use, but do try and avoid "tool-hopping" at the expense of getting good at a specific tool.
@@ -69,4 +71,3 @@ It can be tempting to spend more time chasing the new, shiny tool. Some of this 
 ## Notes / Your Second Brain
 
 Do consider spending a reasonable amount of time designing your "second brain." There are many approaches, and again...it can be tempting to get caught up in the process rather than settling on a solution that is good enough. This is a means to an end.
-After spending some time working on a challenge without solving it, consider stepping away from your computer to get some fresh air and free your brain. You'll be shocked at how many times clearing your mind will help things click back into place.
