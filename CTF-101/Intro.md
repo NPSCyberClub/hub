@@ -63,6 +63,8 @@ Use AI. Use your favorite search engine. Use your previous experience. Use your 
 
 After spending some time working on a challenge without solving it, consider stepping away from your computer to get some fresh air and free your brain. You'll be shocked at how many times clearing your mind will help things click back into place.
 
+[LiveOverflow's Thoughts](https://www.youtube.com/watch?v=Lus7aNf2xDg)
+
 ## Tools
 
 Do spend time to learn your tools. Do explore better alternatives to the tools you currently know and use, but do try and avoid "tool-hopping" at the expense of getting good at a specific tool.
