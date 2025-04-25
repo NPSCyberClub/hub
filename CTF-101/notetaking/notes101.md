@@ -7,10 +7,10 @@ John Hammond on notetaking for the OSCP: https://www.youtube.com/watch?v=MQGozZz
 
 
 ## Popular Apps
-Cherry Tree
-One Note
-Obsidian
-Joplin
+- Cherry Tree
+- One Note
+- Obsidian
+- Joplin
 
 
 
