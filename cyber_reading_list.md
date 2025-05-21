@@ -8,8 +8,10 @@
 - [ ] Dawn of the Code War by John Carlin and Garrett Graff
 - [ ] The Fifth Domain by Richard Clarke and Robert Knake
 - [ ] LikeWar by Peter Singer
-- [ ] Perfect Weapon by David Sanger
+- [ ] The Perfect Weapon by David Sanger
 - [ ] Playing to the Edge by Michael Hayden
+- [ ] Cyber Persistence Theory
+- [ ] Battlefield Cyber
 
 
 ## Academic
@@ -37,7 +39,7 @@
 ## Others Considered:
 - [ ] The Cuckoo's Egg by Cliff Stoll
 - [ ] Kingpin by Kevin Poulsen
-- [ ] Phoenix Project
+- [ ] The Phoenix Project
 - [ ] 2034: A Novel of the Next World War by Elliot Ackerman and James Stavridis
 - [ ] Chinese Communist Espionage: An Intelligence Primer
 - [ ] Chinese Spies by Roger Faligot
@@ -54,6 +56,10 @@
 - [ ] This Is How They Tell Me the World Ends by Nicole Perlroth
 - [ ] Unrestricted Warfare by Qiao Liang and Wang Xiangsui
 - [ ] @War by Shane Harris
+- [ ] Cryptonomicon
+- [ ] Fancy Bear Goes Phishing
+- [ ] Snow Crash
+- [ ] Cyber Crisis by Dr. Eric Cole
 
 
 ## Websites
@@ -69,4 +75,6 @@
 - [ ] darknet diaries podcasts
 - [ ] risky business podcasts
 - [ ] pauls security weekly podcasts
+- [ ] Security Now
+- [ ] BHIS Talkin' 'Bout News
 
