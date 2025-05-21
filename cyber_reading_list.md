@@ -59,7 +59,6 @@
 - [ ] @War by Shane Harris
 - [ ] Cryptonomicon
 - [ ] Fancy Bear Goes Phishing by Scott J. Shapiro
-- [ ] Snow Crash
 - [ ] Cyber Crisis by Dr. Eric Cole
 
 
