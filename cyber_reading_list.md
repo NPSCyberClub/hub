@@ -1,5 +1,6 @@
 # Cyber Reading List
 
+- [ ] [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
 
 ## History and Policy
 - [ ] Dark Territory by Fred Kaplan
@@ -10,7 +11,7 @@
 - [ ] LikeWar by Peter Singer
 - [ ] The Perfect Weapon by David Sanger
 - [ ] Playing to the Edge by Michael Hayden
-- [ ] Cyber Persistence Theory
+- [ ] Cyber Persistence Theory by Michael P. Fischerkeller , Emily O. Goldman, et al.
 - [ ] Battlefield Cyber
 
 
@@ -45,7 +46,7 @@
 - [ ] Chinese Spies by Roger Faligot
 - [ ] Confront and Conceal by David Sanger
 - [ ] Cyberdeterrence and Cyberwar by Martin Libicki
-- [ ] Cyber War by Richard Clarke and Robert Knake
+- [ ] Cyber War by Richard Clarke and Robert Knakby Michael P. Fischerkeller , Emily O. Goldman, et al.e
 - [ ] Cyber War Will Not Take Place by Thomas Rid
 - [ ] Ghost in the Wires by Kevin Mitnick
 - [ ] Hackers: Heroes of the Computer Revolution by Steven Levy
@@ -57,7 +58,7 @@
 - [ ] Unrestricted Warfare by Qiao Liang and Wang Xiangsui
 - [ ] @War by Shane Harris
 - [ ] Cryptonomicon
-- [ ] Fancy Bear Goes Phishing
+- [ ] Fancy Bear Goes Phishing by Scott J. Shapiro
 - [ ] Snow Crash
 - [ ] Cyber Crisis by Dr. Eric Cole
 
@@ -77,4 +78,12 @@
 - [ ] pauls security weekly podcasts
 - [ ] Security Now
 - [ ] BHIS Talkin' 'Bout News
+- [ ] The Cyberlaw Podcast
 
+## Entertainment
+
+- [ ] Sneakers (movie, 1992)
+- [ ] Hackers (movie, 1995)
+- [ ] The Matrix (movie)
+- [ ] Mr. Robot (TV Series)
+- [ ] Snow Crash (book)
