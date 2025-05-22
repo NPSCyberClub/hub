@@ -60,6 +60,7 @@
 - [ ] Cryptonomicon
 - [ ] Fancy Bear Goes Phishing by Scott J. Shapiro
 - [ ] Cyber Crisis by Dr. Eric Cole
+- [ ] Dark Mirror by Barton Gellman
 
 
 ## Websites
