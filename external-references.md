@@ -1,9 +1,9 @@
 # General Resources with Broad Coverage
 [BYU CTF GitHub](https://github.com/BYU-CSA/cyber-kickstart/blob/main/friday-lessons/Beginners.md)
 
-[CTF 101 Handbook](https://ctf101.org/) - Fantastic intro resource, covers basisc in: Forensics, Cryptography, Web Exploitation, Reverse Engineering, Binary Exploitation 
+[CTF 101 Handbook](https://ctf101.org/) - New York University's fantastic intro resource, covers basisc in: Forensics, Cryptography, Web Exploitation, Reverse Engineering, Binary Exploitation 
 
-[pwn.college](https://pwn.college)
+[pwn.college](https://pwn.college) - Arizona State University's outstanding free learning "dojo" with videos, slides, and interactive challenges
 
 # THM & HTB
 
