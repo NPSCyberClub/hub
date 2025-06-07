@@ -29,3 +29,4 @@ NOTE: For club members, email [cyber@npsfoundation.org](mailto:cyber@npsfoundati
 - [Copilot](https://copilot.microsoft.com)
 - [Llama](https://ollama.com)
 - [v0](https://v0.dev)
+- [Venice Uncensored](https://venice.ai)
