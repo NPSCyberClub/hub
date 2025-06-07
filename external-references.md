@@ -5,6 +5,8 @@
 
 [pwn.college](https://pwn.college) - Arizona State University's outstanding free learning "dojo" with videos, slides, and interactive challenges
 
+[Harvard University's CS50](https://www.youtube.com/@cs50)
+
 # THM & HTB
 
 [TryHackMe vs HackTheBox](https://www.youtube.com/watch?v=Q3MBjG7k3CE)
