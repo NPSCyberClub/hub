@@ -18,3 +18,12 @@ NOTE: For club members, email [cyber@npsfoundation.org](mailto:cyber@npsfoundati
 # Web Application Security
 
 [PortSwigger Academy](https://portswigger.net/web-security)
+
+# AI 
+- [ChatGPT](chatgpt.com)
+- [Perplexity](perplexity.ai)
+- [Claude](claude.ai)
+- [Gemini](gemini.google.com)
+- [Copilot](copilot.microsoft.com)
+- [Llama](ollama.com)
+- [v0](v0.dev)
