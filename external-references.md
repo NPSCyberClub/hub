@@ -20,10 +20,10 @@ NOTE: For club members, email [cyber@npsfoundation.org](mailto:cyber@npsfoundati
 [PortSwigger Academy](https://portswigger.net/web-security)
 
 # AI 
-- [ChatGPT](chatgpt.com)
-- [Perplexity](perplexity.ai)
-- [Claude](claude.ai)
-- [Gemini](gemini.google.com)
-- [Copilot](copilot.microsoft.com)
-- [Llama](ollama.com)
-- [v0](v0.dev)
+- [ChatGPT](https://chatgpt.com)
+- [Perplexity](https://perplexity.ai)
+- [Claude](https://claude.ai)
+- [Gemini](https://gemini.google.com)
+- [Copilot](https://copilot.microsoft.com)
+- [Llama](https://ollama.com)
+- [v0](https://v0.dev)
