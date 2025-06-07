@@ -5,7 +5,7 @@
 
 [pwn.college](https://pwn.college) - Arizona State University's outstanding free learning "dojo" with videos, slides, and interactive challenges
 
-[Harvard University's CS50](https://www.youtube.com/@cs50)
+[Harvard University's CS50](https://www.youtube.com/@cs50) - A YouTube channel with introductory CS and cybersecurity content
 
 # THM & HTB
 
