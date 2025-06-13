@@ -80,6 +80,7 @@
 - [ ] BHIS Talkin' 'Bout News
 - [ ] The Cyberlaw Podcast
 - [ ] Surveillance Report
+- [ ] [Seytonic](https://www.youtube.com/@Seytonic)
 
 ## Entertainment
 
