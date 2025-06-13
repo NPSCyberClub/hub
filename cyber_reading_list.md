@@ -78,7 +78,7 @@
 - [ ] pauls security weekly podcasts
 - [ ] Security Now
 - [ ] BHIS Talkin' 'Bout News
-- [ ] The Cyberlaw Podcast
+- [ ] [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)
 - [ ] Surveillance Report
 - [ ] [Seytonic](https://www.youtube.com/@Seytonic)
 
