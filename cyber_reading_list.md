@@ -76,10 +76,10 @@
 - [ ] darknet diaries podcasts
 - [ ] risky business podcasts
 - [ ] pauls security weekly podcasts
-- [ ] Security Now
-- [ ] BHIS Talkin' 'Bout News
+- [ ] [Security Now](https://www.youtube.com/@securityNow)
+- [ ] [BHIS Talkin' 'Bout News](https://www.youtube.com/@BlackHillsInformationSecurity)
 - [ ] [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)
-- [ ] Surveillance Report
+- [ ] [Surveillance Report](https://www.youtube.com/@surveillancereport)
 - [ ] [Seytonic](https://www.youtube.com/@Seytonic)
 
 ## Entertainment
