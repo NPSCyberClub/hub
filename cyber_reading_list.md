@@ -26,9 +26,6 @@
 - [ ] Unmasking Maskirovka by Daniel Bagge
 - [ ] Spies Lies and Algorithms by Amy Zegart
 
-## Fiction
-- [ ] Ghost Fleet by P.W. Singer and August Cole
-
 
 ## Academic Journals
 - [ ] CyCon Proceedings - https://ccdcoe.org/library/publications/?type=book
@@ -41,6 +38,7 @@
 - [ ] The Cuckoo's Egg by Cliff Stoll
 - [ ] Kingpin by Kevin Poulsen
 - [ ] The Phoenix Project
+- [ ] Ghost Fleet by P.W. Singer and August Cole
 - [ ] 2034: A Novel of the Next World War by Elliot Ackerman and James Stavridis
 - [ ] Chinese Communist Espionage: An Intelligence Primer
 - [ ] Chinese Spies by Roger Faligot
