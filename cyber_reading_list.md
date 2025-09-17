@@ -87,3 +87,4 @@
 - [ ] The Matrix (movie)
 - [ ] Mr. Robot (TV Series)
 - [ ] Snow Crash (book)
+- [ ] WarGames (movie, 1983)
