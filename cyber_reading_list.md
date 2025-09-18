@@ -20,6 +20,7 @@
 - [ ] China's Cyber Power by Nigel Inkster
 - [ ] Cyber Mercenaries by Tim Maurer
 - [ ] Cyber Strategy by Valeriano, Jensen, and Maness
+- [ ] Cyberspace and the Jus ad Bellum: The State of Play by Michael Schmitt and Anusha Pakkam
 - [ ] The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics by Ben Buchanan
 - [ ] On Cyber by Greg Conti and David Raymond
 - [ ] Tallinn Manual 2.0 by NATO CCDCOE
