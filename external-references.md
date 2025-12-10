@@ -22,7 +22,7 @@ NOTE: For club members, email [cyber@npsfoundation.org](mailto:cyber@npsfoundati
 [PortSwigger Academy](https://portswigger.net/web-security)
 
 # AI 
-- [DoW GenAI](https://genai.mil)
+- [DoW GenAI](https://genai.mil) (CAC required)
 - [ChatGPT](https://chatgpt.com)
 - [Perplexity](https://perplexity.ai)
 - [Claude](https://claude.ai)
