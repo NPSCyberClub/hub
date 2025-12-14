@@ -1,6 +1,7 @@
 # Cyber Reading List
 
 - [ ] [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
+- [ ] No Shortcuts: Why States Struggle to Develop a Military Cyber-Force by Max Smeets
 
 ## History and Policy
 - [ ] Dark Territory by Fred Kaplan
@@ -13,6 +14,7 @@
 - [ ] Playing to the Edge by Michael Hayden
 - [ ] Cyber Persistence Theory by Michael P. Fischerkeller , Emily O. Goldman, et al.
 - [ ] Battlefield Cyber
+- [ ] 
 
 
 ## Academic
