@@ -13,6 +13,7 @@
 - [ ] Playing to the Edge by Michael Hayden
 - [ ] Cyber Persistence Theory by Michael P. Fischerkeller , Emily O. Goldman, et al.
 - [ ] Battlefield Cyber
+- [ ] No Shortcuts: Why States Struggle to Develop a Military Cyber-Force by Max Smeets
 
 
 ## Academic
