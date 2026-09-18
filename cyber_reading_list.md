@@ -69,7 +69,8 @@
 - [ ] https://icdt.osu.edu/cybercanon/bookreviews
 - [ ] https://ccdcoe.org/library/publications/?type=book
 - [ ] https://keyterraincyber.com/key-terrain-cyber-cyberspace-warfare-reading-list/
-
+- [ ] https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations
+- [ ] https://openai.com/index/hugging-face-model-evaluation-security-incident/
 
 
 ## Podcasts
