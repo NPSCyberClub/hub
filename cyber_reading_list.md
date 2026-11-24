@@ -14,6 +14,7 @@
 - [ ] Cyber Persistence Theory by Michael P. Fischerkeller , Emily O. Goldman, et al.
 - [ ] Battlefield Cyber
 - [ ] No Shortcuts: Why States Struggle to Develop a Military Cyber-Force by Max Smeets
+- [ ] The Rise and Fall of the Artificial State by Jill Lepore
 
 
 ## Academic
